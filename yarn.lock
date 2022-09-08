@@ -161,7 +161,7 @@
   dependencies:
     chalk "^4.0.0"
 
-"@dogebark/sdk@^0.0.1":
+"@dogebark/sdk@^0.0.3":
   version "0.0.3"
   resolved "https://registry.yarnpkg.com/@dogebark/sdk/-/sdk-0.0.3.tgz#60e3a5e570b2253670e294e19fcb498ca2834207"
   integrity sha512-QemMNpK4NfmrT8uf331JnUk1a9ONqmCUfwyJfLpflnFzsozxo7j7wCcUBk/hjkKwIbrPgUy9UmSHSDQ4DPEWqA==
