@@ -15,7 +15,7 @@ module.exports = function buildList() {
     tags: {},
     logoURI:
       "https://assets.dogebark.dog/logo.png",
-    keywords: ["dogebark", "default"],
+    keywords: ["barktest", "default"],
     tokens: [
       ...dogechain,
     ]

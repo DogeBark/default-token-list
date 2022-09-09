@@ -1,8 +1,8 @@
 [
   {
-    "name": "BarkTest",
-    "address": "0xB82A4A02F35Ca0eB6240FBdA22F4D2c81536279F",
-    "symbol": "(BarkTest)",
+    "name": "barktest",
+    "address": "0xB649291E7eb6b39e6B8B504B78c36Edb3736303F",
+    "symbol": "BARKTEST",
     "decimals": 18,
     "chainId": 2000,
     "logoURI": "https://assets.dogebark.dog/logo.png"
@@ -46,6 +46,30 @@
     "decimals": 8,
     "chainId": 2000,
     "logoURI": "https://assets.dogmoney.money/blockchains/dogechain/assets/0xfA9343C3897324496A05fC75abeD6bAC29f8A40f/logo.png"
+  },
+  {
+    "name": "DogePrint",
+    "address": "0x0755FA2F4AA6311E1D7C19990416c86F17D16F86",
+    "symbol": "DOGEP",
+    "decimals": 6,
+    "chainId": 2000,
+    "logoURI": "https://assets.dogmoney.money/blockchains/dogechain/assets/0x0755FA2F4AA6311E1D7C19990416c86F17D16F86/logo.png"
+  },
+  {
+    "name": "AstroDoge",
+    "address": "0x87b6bd987915b24361cf086490cB9F7e847e533d",
+    "symbol": "ASTRO",
+    "decimals": 9,
+    "chainId": 2000,
+    "logoURI": "https://assets.dogmoney.money/blockchains/dogechain/assets/0x87b6bd987915b24361cf086490cB9F7e847e533d/logo.png"
+  },
+  {
+    "name": "Bourbon",
+    "address": "0x44aA2dfe660439E9a93483EC665Bf20dE62CEc2B",
+    "symbol": "BOURBON",
+    "decimals": 18,
+    "chainId": 2000,
+    "logoURI": "https://assets.dogmoney.money/blockchains/dogechain/assets/0x44aA2dfe660439E9a93483EC665Bf20dE62CEc2B/logo.png"
   },
   {
     "name": "Dogechain",
