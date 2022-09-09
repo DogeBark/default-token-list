@@ -1,6 +1,6 @@
 {
   "name": "@dogebarkswap/default-token-list",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "◦ The DogeBark default token list",
   "main": "build/DogeBark-default.tokenlist.json",
   "scripts": {
